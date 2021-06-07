@@ -161,7 +161,9 @@
 
 .contact-section form label input,
 .contact-section form label textarea {
-    width: 82%;
+    width: 85%;
 }
 
-.contact-section {}
+.contact-section {
+    padding: 0px 20px;
+}
